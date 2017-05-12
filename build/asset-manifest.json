@@ -1,11 +1,14 @@
 {
-  "main.css": "static/css/main.0ce4bd80.css",
-  "main.css.map": "static/css/main.0ce4bd80.css.map",
-  "main.js": "static/js/main.9524a9a5.js",
-  "main.js.map": "static/js/main.9524a9a5.js.map",
+  "main.css": "static/css/main.a917c68a.css",
+  "main.css.map": "static/css/main.a917c68a.css.map",
+  "main.js": "static/js/main.5b3da86e.js",
+  "main.js.map": "static/js/main.5b3da86e.js.map",
   "static\\media\\arrow-icon.png": "static/media/arrow-icon.09bcd841.png",
   "static\\media\\egg1b_480.png": "static/media/egg1b_480.be65bcc3.png",
   "static\\media\\egg2b_480.png": "static/media/egg2b_480.088c7f16.png",
   "static\\media\\egg3b_480.png": "static/media/egg3b_480.66c34b82.png",
-  "static\\media\\egg_shake_bg_720.jpg": "static/media/egg_shake_bg_720.420dd71b.jpg"
+  "static\\media\\egg_shake_bg_720.jpg": "static/media/egg_shake_bg_720.420dd71b.jpg",
+  "static\\media\\sound_egg_crack.mp3": "static/media/sound_egg_crack.c51f40bc.mp3",
+  "static\\media\\sound_lose.mp3": "static/media/sound_lose.a00cdd7b.mp3",
+  "static\\media\\sound_win.mp3": "static/media/sound_win.21a4a5d7.mp3"
 }
